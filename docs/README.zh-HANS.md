@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/reworkd/AgentGPT/main/public/banner.png?token=GHSAT0AAAAAAB7JND3U3VGGF3UYYHGYO4RAZBSDJAQ" height="300"/>
+  <img src="https://jinfengjia.oss-cn-beijing.aliyuncs.com/uploadFiles/uploadImgs/data/banner.png" height="300"/>
 </p>
 <p align="center">
   <em>🤖 组装，配置和部署自主的 AI 代理（只需浏览器） 🤖 </em>
@@ -7,11 +7,6 @@
 <p align="center">
     <img alt="Node version" src="https://img.shields.io/static/v1?label=node&message=%20%3E=16.0.0&logo=node.js&color=2334D058" />
 </p>
-<p align="center">
-  <a href="https://github.com/reworkd/AgentGPT/blob/master/README.md"><img src="https://img.shields.io/badge/lang-English-blue.svg" alt="English"></a>
-  <a href="https://github.com/reworkd/AgentGPT/blob/master/docs/README.zh-HANS.md"><img src="https://img.shields.io/badge/lang-简体中文-red.svg" alt="简体中文"></a>
-</p>
-
 <p align="center">
 <a href="https://agentgpt.reworkd.ai">🔗 短链接</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -29,18 +24,8 @@
 </h2>
 
 <p align="center">
-Join us in fueling the development of HopesoftGPT, an open-source project pushing the boundaries of AI autonomy! We're facing challenges in covering the operational costs 💸, including in-house API and other infrastructure expenses, which is projected to grow to around $150 USD per day 💳🤕 Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
 加入我们推动 HopesoftGPT 的发展. 这是一个推动AI自主的开源项目！我们面临着支付运营成本的挑战 💸，包括内部 API 和其他基础设施费用，预计每天需要支付约 150 美元 💳🤕 你的赞助将帮助我们扩大资源，增强功能和不断推动这个的项目的进展！ 🚀
 </p>
-
-<p align="center">
-通过赞助这个开源项目，你不仅有机会在下方展示你的头像/徽标，还可以与创始人独家交流！ 🗣️ 
-</p>
-
-<p align="center">
-<a href="https://github.com/sponsors/reworkd-admin">👉 点击此处</a> 支持项目
-</p>
-
 
 HopesoftGPT 可以让你配置和部署 AI 代理。
 为你定制的 AI 命名，并让它执行任何可以想象的目标。
@@ -147,7 +132,7 @@ npm run dev
 
 ### 🚀 GitHub Codespaces
 
-使用[GitHub Codespaces](https://github.com/features/codespaces)在云端设置 AgentGPT。
+使用[GitHub Codespaces](https://github.com/features/codespaces)在云端设置 HopesoftGPT。
 
 1. 从 GitHub 存储库中，单击绿色的 "Code" 按钮并选择 "Codespaces"。
 2. 创建一个新的 Codespace 或选择之前已创建的 Codespace。
@@ -164,3 +149,7 @@ npm run dev
 ```
 npm run dev
 ```
+### 🚀TODO List
+   1. - [×] Twitter-Slack图标替换
+   2. - [×] HopesoftGPT的icon
+   3. - [×] 多语言功能
