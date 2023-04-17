@@ -23,7 +23,7 @@ const DefaultLayout = (props: LayoutProps) => {
         <meta name="twitter:description" content={description} />
         <meta
           name="twitter:image"
-          content="https://agentgpt.reworkd.ai/banner.png"
+          content="https://jinfengjia.oss-cn-beijing.aliyuncs.com/uploadFiles/uploadImgs/data/banner.png"
         />
         <meta name="twitter:image:width" content="1280" />
         <meta name="twitter:image:height" content="640" />
@@ -38,7 +38,7 @@ const DefaultLayout = (props: LayoutProps) => {
         <meta property="og:url" content="https://agentgpt.reworkd.ai/" />
         <meta
           property="og:image"
-          content="https://agentgpt.reworkd.ai/banner.png"
+          content="https://jinfengjia.oss-cn-beijing.aliyuncs.com/uploadFiles/uploadImgs/data/banner.png"
         />
         <meta property="og:image:width" content="1280" />
         <meta property="og:image:height" content="640" />
