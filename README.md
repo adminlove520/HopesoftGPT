@@ -142,7 +142,7 @@ npm run dev
 
 ### 🚀 GitHub Codespaces
 
-使用[GitHub Codespaces](https://github.com/features/codespaces)在云端设置 AgentGPT。
+使用[GitHub Codespaces](https://github.com/features/codespaces)在云端设置 HopesoftGPT。
 
 1. 从 GitHub 存储库中，单击绿色的 "Code" 按钮并选择 "Codespaces"。
 2. 创建一个新的 Codespace 或选择之前已创建的 Codespace。
