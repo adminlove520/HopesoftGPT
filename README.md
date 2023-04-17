@@ -24,18 +24,8 @@
 </h2>
 
 <p align="center">
-Join us in fueling the development of HopesoftGPT, an open-source project pushing the boundaries of AI autonomy! We're facing challenges in covering the operational costs 💸, including in-house API and other infrastructure expenses, which is projected to grow to around $150 USD per day 💳🤕 Your sponsorship would drive progress by helping us scale up resources, enhance features and functionality, and continue to iterate on this exciting project! 🚀
 加入我们推动 HopesoftGPT 的发展. 这是一个推动AI自主的开源项目！我们面临着支付运营成本的挑战 💸，包括内部 API 和其他基础设施费用，预计每天需要支付约 150 美元 💳🤕 你的赞助将帮助我们扩大资源，增强功能和不断推动这个的项目的进展！ 🚀
 </p>
-
-<p align="center">
-通过赞助这个开源项目，你不仅有机会在下方展示你的头像/徽标，还可以与创始人独家交流！ 🗣️ 
-</p>
-
-<p align="center">
-<a href="https://github.com/sponsors/reworkd-admin">👉 点击此处</a> 支持项目
-</p>
-
 
 HopesoftGPT 可以让你配置和部署 AI 代理。
 为你定制的 AI 命名，并让它执行任何可以想象的目标。
@@ -160,6 +150,6 @@ npm run dev
 npm run dev
 ```
 ### 🚀TODO List
-   1. - [] Twitter-Slack图标替换
-   2. - [] HopesoftGPT的icon
-   3. - [] 多语言功能
+   1. - [×] Twitter-Slack图标替换
+   2. - [×] HopesoftGPT的icon
+   3. - [×] 多语言功能
